@@ -1,0 +1,21 @@
+.thumb{ width: 200px; height: 113px;}
+  .container {
+    float: left;
+    width: 250px;
+    height: 200px;
+    overflow: hidden;
+    text-align: left;
+    padding-top: 20px;
+  }
+  img:hover{
+
+      border-color: #33b5e5;
+      border-style: solid;
+        border-width: thin;
+  }
+  h2{
+    margin-bottom: 0px;
+  }
+  hr{
+    margin-top: -10px;
+}

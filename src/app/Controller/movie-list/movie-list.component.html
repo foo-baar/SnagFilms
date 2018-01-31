@@ -1,0 +1,13 @@
+<h2>
+  New Releases :</h2>
+<br/>
+<hr>
+<h3 *ngIf="!movies.film">L o a d i n g 🍿 .....</h3>
+<div class="container" *ngFor="let movie of movies.film ">
+  <a href='' [routerLink]="['/detail', movie.id]">
+    <img class="thumb" [src]='movie.images.image[0].src'>
+  </a>
+  <br/>
+  <span>{{movie.title}}</span>
+  <br/>
+</div>

@@ -1,0 +1,7 @@
+<h3 *ngIf="!movie[0]">L o a d i n g 🍿 .....</h3>
+<div class="container" *ngIf="(movie | json) != '{}'">
+  <p>{{movie[0].title}}</p>
+  <iframe width=500 height=350 frameborder=0 scrolling=no [src]='sanitizer.bypassSecurityTrustResourceUrl(videoURL())' title="CLICK TO PLAY" ></iframe>
+  <br/>
+  <button (click)="goBack()">GO Back</button>
+</div>
