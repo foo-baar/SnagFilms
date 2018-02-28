@@ -93,8 +93,5 @@
 {"app_id":93,"app_status":false,"applicant":"Ned","products":"Wine - Magnotta, Merlot Sr Vqa","created_date":"10/18/2017","ip_address":"2.100.17.79"},
 {"app_id":94,"app_status":false,"applicant":"Powell","products":"Mushroom - Chanterelle, Dry","created_date":"4/25/2017","ip_address":"12.217.156.194"},
 {"app_id":95,"app_status":true,"applicant":"Zachary","products":"Tomato Paste","created_date":"2/24/2018","ip_address":"34.195.212.175"},
-{"app_id":96,"app_status":false,"applicant":"Virgil","products":"Crush - Cream Soda","created_date":"11/1/2017","ip_address":"52.99.103.233"},
-{"app_id":97,"app_status":true,"applicant":"Smith","products":"Vaccum Bag 10x13","created_date":"7/12/2017","ip_address":"225.212.97.254"},
-{"app_id":98,"app_status":true,"applicant":"Denys","products":"Cheese - Woolwich Goat, Log","created_date":"7/5/2017","ip_address":"252.239.241.239"},
-{"app_id":99,"app_status":false,"applicant":"Gaelan","products":"Cake - Box Window 10x10x2.5","created_date":"5/17/2017","ip_address":"29.5.119.42"},
-{"app_id":100,"app_status":false,"applicant":"Ezekiel","products":"Nori Sea Weed","created_date":"5/29/2017","ip_address":"115.132.203.131"}]
+{"app_id":96,"app_status":false,"applicant":"Virgil","products":"Crush - Cream Soda","created_date":"11/1/2017","ip_address":"52.99.103.233"}
+]
